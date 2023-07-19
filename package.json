@@ -1,0 +1,26 @@
+{
+  "name": "serialportterminal",
+  "version": "1.0.0",
+  "description": "Proyecto para el consumo de una interfas serial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramo880722/SerialPortTerminal.git"
+  },
+  "author": "OzzMonzalvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramo880722/SerialPortTerminal/issues"
+  },
+  "homepage": "https://github.com/ramo880722/SerialPortTerminal#readme",
+  "dependencies": {
+    "serialport": "^11.0.0",
+    "bootstrap": "^5.3.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.6.0"
+  }
+}
