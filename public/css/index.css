@@ -6,7 +6,7 @@
     height: 100vh;
 }
 
-.tool-bar {
+/* .tool-bar {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -15,7 +15,7 @@
     padding: 15px;
     background-color: #FAFAFA;
     box-shadow: 2px 0px 5px #ccc;
-}
+} */
 
 .content-box {
     display: flex;
@@ -66,14 +66,14 @@
     resize: none;
 }
 
-.send-btn {
+/* .send-btn {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
     align-content: center;
-}
+} */
 
-.btn-box {
+/* .btn-box {
     margin-right: 15px;
     margin-top: 8px;
-}
+} */
